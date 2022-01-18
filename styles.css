@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    font-family: 'Karla';
+}
+
+.main__text{
+    background-color: hsl(203, 31%, 89%);
+    height: 200px;
+    width: 600px;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+
+.heading__one{
+    color: hsl(179, 62%, 43%);
+    position: relative;
+    left: 5%;
+    font-size: 30px;
+}
+
+.heading__first{
+    color: hsl(71, 73%, 54%);
+    position: relative;
+    left: 5%;
+    top: 10%;
+    font-size: 20px;
+}
+
+.first__para{
+    color: hsl(218, 22%, 67%);
+    position: relative;
+    left: 5%;
+    top: 20%;
+    line-height: 25px;
+    font-size: 16px;
+}
+
+
+.secondary__text{
+    background-color: hsl(179, 57%, 39%);
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 48%;
+    left: 30%;
+}
+
+.heading__two{
+    color:  hsl(204, 43%, 93%);
+    position: relative;
+    top: 10%;
+    left: 10%;
+    font-size: 25px;
+}
+
+.price{
+    color:  hsl(204, 43%, 93%);
+    position: relative;
+    font-size: 50px;
+    top: 20%;
+    left: 10%;
+}
+
+.subtext{
+    color: hsl(218, 22%, 67%);
+    font-size: 15px;
+    position: absolute;
+    top: 35%;
+    left: 40%;
+}
+
+.second__para{
+    color:  hsl(204, 43%, 93%);
+    position: relative;
+    top: 27%;
+    left: 10%;
+    font-size: 16px;
+}
+
+.class__btn{
+    position: relative;
+    background-color: hsl(71, 73%, 54%); color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Karla';
+    height: 50px;
+    width: 200px;
+    top: 35%;
+    left: 17%;
+    border: none;
+    box-shadow: 3px 3px 6px gray;
+}
+
+.third__text{
+    background-color: hsl(179, 62%, 43%);
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 48%;
+    left: 51.5%;
+}
+
+.heading__three{
+    position: relative;
+    color: hsl(204, 43%, 93%);
+    left: 10%;
+    top: 10%;
+    font-size: 25px;
+}
+
+
+.explain{
+    position: relative;
+    color: hsl(204, 43%, 93%);
+    left: 10%;
+    top: 20%;
+    line-height: 20px;
+
+}
+
